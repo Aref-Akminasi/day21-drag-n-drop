@@ -1,6 +1,6 @@
 # Day 21 Drag & Drop
 
-This is the Drag & Drop project from the course '50 projects in 50 days'
+This is the drag & drop project from the course '50 projects in 50 days'
 
 ## Overview
 
